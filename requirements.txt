@@ -1,0 +1,15 @@
+# main.py: 12,13,14,15,16,18,19,20
+langchain == 0.0.335
+
+# main.py: 11
+streamlit == 1.28.2
+
+# main.py: 21
+pinecone-client==2.2.4
+
+# Dependencies
+sentence_transformers==2.2.2
+tiktoken==0.5.1
+pymupdf==1.23.6
+huggingface_hub==0.19.1
+wikipedia==1.4.0
