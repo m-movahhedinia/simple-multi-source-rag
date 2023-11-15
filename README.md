@@ -8,7 +8,7 @@ First, install the requirements.
 pip install -r requirements.txt
 ```
 Second, add your huggingface access token and pinecone credentials to the code, line 26 to 28. You can use the links 
-below.<br>
+below to get them.<br>
 https://huggingface.co/docs/hub/security-tokens<br>
 https://docs.pinecone.io/docs/quickstart
 
@@ -20,4 +20,5 @@ streamlit run att_1.py
 The web UI should load in your browser. It may take it a few seconds to load completely.
 You can use the sidebar to upload one or more PDFs.
 The instructions get appended to the default prompt.
+For better performance, change the code to use one of OpenAI's models.
 
