@@ -10,6 +10,7 @@ pip install -r requirements.txt
 Second, add your huggingface access token and pinecone credentials to the code, line 26 to 28. You can use the links 
 below.<br>
 https://huggingface.co/docs/hub/security-tokens
+
 https://docs.pinecone.io/docs/quickstart
 
 Then run the command bellow from the project root:
