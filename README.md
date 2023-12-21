@@ -14,7 +14,7 @@ https://docs.pinecone.io/docs/quickstart
 
 Then run the command bellow from the project root:
 ```shell
-streamlit run att_1.py
+streamlit run main.py
 ```
 
 The web UI should load in your browser. It may take it a few seconds to load completely.
