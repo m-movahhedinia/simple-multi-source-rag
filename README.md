@@ -12,7 +12,7 @@ below to get them.<br>
 https://huggingface.co/docs/hub/security-tokens<br>
 https://docs.pinecone.io/docs/quickstart
 
-Then run the command bellow from the project root:
+Then run the command below from the project root:
 ```shell
 streamlit run main.py
 ```
