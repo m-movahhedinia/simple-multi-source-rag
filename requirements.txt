@@ -1,5 +1,5 @@
 # main.py: 12,13,14,15,16,18,19,20
-langchain == 0.0.335
+langchain == 0.1.0
 
 # main.py: 11
 streamlit == 1.30.0
